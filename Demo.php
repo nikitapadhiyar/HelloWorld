@@ -1,6 +1,6 @@
 <?php 
 
 
-echo "First Line Code Of Git Hub";
+echo "Secone Line Code Of Git Hub";
 
 ?>
